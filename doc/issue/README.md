@@ -9,7 +9,7 @@ history.log は `xavier@192.168.0.79:/var/log/apt/history.log` のもの
 - [
 
 # 以下実行したコマンドと、何を返したか
-状況、画面が真っ青になってから（再起動した後）
+状況、画面が真っ青になってから（再起動した後）SSH でつないだ
 ``` cmd
 xavier@ubuntu:~$ sudo apt install --reinstall xorg
 [sudo] password for xavier: 
